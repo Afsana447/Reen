@@ -43,7 +43,7 @@ a, a:hover{
 	display: block;
 	color: #506a85;
 	text-decoration: none;
-	margin: 0px 0px 0px 20px;
+	margin: 0px 0px 0px 15px;
 }
 .top-header .info li a .fa{
 	margin: 0px 5px 0px 0px;
@@ -68,7 +68,7 @@ a, a:hover{
 	display: block;
 	color: #506a85;
 	text-decoration: none;
-	margin: 0px 0px 0px 15px;
+	margin: 0px 0px 0px 20px;
 }
 .top-header .social-icon li a:hover, .top-header .social-icon li a:focus{
 	color: #00bc9c;
